@@ -1,3 +1,5 @@
 <?
 //newFile
+
+echo "file accept";
 ?>
