@@ -1,4 +1,5 @@
 <?
 echo 'hello world';
-$data = date;
+$data = 1;
+$virage = 10;
 ?>
